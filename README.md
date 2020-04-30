@@ -13,4 +13,4 @@ e.g:
 ```bash
 $ unlocker https://moravskoslezsky.denik.cz/zpravy_region/podpora-zivnostniku-v-praxi-pribeh-ostrava-chlebovsky-radnice-20200430.html
 ```
-Now, the page is downloaded without lock and is ready to open in a web browser.
+Now, the page is downloaded without lock and it is ready to open in a web browser.
